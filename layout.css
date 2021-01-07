@@ -1,1 +1,22 @@
-// stuff goes here
+#filterbar {
+    width: 60%;
+    float: right;
+    border: 1px solid red;
+}
+
+#searchbar {
+    width: 60%;
+    float: right;
+    border: 1px solid red;
+}
+
+.recipe {
+    margin: 10%;
+    border: 1px solid red;
+}
+
+.recipe_img {
+    float: left;
+    margin: 10%;
+    border: 1px solid red;
+}
