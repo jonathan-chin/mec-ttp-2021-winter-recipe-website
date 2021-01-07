@@ -30,3 +30,10 @@ To practice implementing responsive design principles through CSS frameworks, ex
 7. User should be able to post recipes.
 8. User should be able to comment / share.
 9. Rating system.
+
+## Parts needed
+
+1. index.html
+2. layout.css
+3. recipe.css
+4. interaction.js **leave until later**
